@@ -34,4 +34,4 @@ Set up back end for ecommerce site
   I will be working on this myself to further my skills in coding, no need for contributions.
 
   ### Questions
-   checkout my github at 
+   checkout my github at https://github.com/Trouterwen
